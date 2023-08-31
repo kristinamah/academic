@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This EW theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+This project aims to understand the link between trust, safety, and the public acceptance of driverless cars. The uptake of autonomous mobility systems relies upon public trust. Recent injuries, and even a fatality, have highlighted the risks they pose to pedestrians in particular. The project investigates new interfaces for improving public trust and pedestrial safety by allowing vehicles to communicate with the people around them. Along the way, it develops a validated approach for simulating real interactions with autonomous vehicles in a virtual-reality environment. Benefits include strategies for making driverless cars safer for pedestrians and a new approach for testing solutions to this emerging problem in a low-cost, low-risk way.
